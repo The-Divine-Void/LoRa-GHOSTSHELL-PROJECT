@@ -1,0 +1,5 @@
+==========================
+= PAYLOAD DETECTED =
+==========================
+File: td_script.ps1
+Status: READY

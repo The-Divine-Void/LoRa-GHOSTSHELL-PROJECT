@@ -1,0 +1,5 @@
+==========================
+= CONNECTED =
+==========================
+Freq: 915 MHz
+Mode: Ghost Shell Active
